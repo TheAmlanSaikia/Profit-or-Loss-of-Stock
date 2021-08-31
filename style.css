@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: #222831;
+    color: #DDDDDD;
+}
+
+label{
+    display: block;
+    padding-bottom: 1rem;
+}
+
+input{
+    background-color: #323232;
+}
